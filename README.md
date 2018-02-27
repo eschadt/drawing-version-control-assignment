@@ -1,6 +1,6 @@
 # Remix of drawing-version-control-assignment
 
-I forked @adnanislam project and extended it!
+I forked [adnanislam's](https://github.com/adnanislam) project and extended it!
 
 I added a cannon ball svg!
 
