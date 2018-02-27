@@ -1,0 +1,83 @@
+.container {
+    background-image: url("../images/mario-background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    overflow: auto;
+    z-index: -100;
+}
+
+svg.icons {
+    width: 19em;
+    height: 19em;
+}
+
+/* Star CSS */
+#star {
+    fill: #fffa65;
+}
+
+#eye1, #eye2 {
+    fill: black;
+}
+
+/* Mushroom CSS */
+#mushroom-body {
+    fill: #f7f1e3;
+}
+
+#mushroom-top {
+    fill: #ff5252;
+}
+
+#circle-1, #circle-2, #circle-3 {
+    fill: white;
+}
+
+/* Question Block CSS */
+#block {
+    fill: #ffd32a;
+}
+
+#question-mark {
+    fill: white;
+}
+
+/* Coin CSS */
+#outer-coin {
+    fill: #ffd32a;
+}
+
+#inner-coin {
+    fill: #ffdd59;
+    stroke: black;
+}
+
+/* flower CSS */
+#flower-circle-1 {
+    fill: #ff793f;
+}
+
+#flower-circle-2 {
+    fill: #fff200;
+}
+
+#flower-circle-3 {
+    fill: #f5f6fa;
+}
+
+#flower-eye-1, #flower-eye-2{
+    fill: black;
+}
+
+#flower-stem {
+    fill: #27ae60;
+}
+
+#flower-leaf-1, #flower-leaf-2 {
+    fill: #2ecc71;
+}

@@ -1,0 +1,50 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    font-size: 1.5em;
+}
+
+nav ul {
+    margin: 0;
+    padding-top: .3em;
+    padding-bottom: .3em;
+}
+
+nav li {
+    display: inline;
+}
+
+.nav-links {
+    float: right;
+    margin-right: 1em;
+}
+
+#project-list {
+    list-style-type: none;
+    font-size: 2em;
+  }
+
+.project-links {
+    margin-top: .3em;
+    margin-bottom: .3em;
+}
+
+.project-links a, .nav-links a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-links a:hover {
+    background-color: white;
+    color: black;
+}
+
+.project-links a:hover {
+    background-color: black;
+    color: white;
+}
